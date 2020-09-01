@@ -1,0 +1,10 @@
+// .vscode/settings.json
+// Place your settings in this file to overwrite default and user settings.
+{
+    "android-dev-ext.codeCompletionLibraries": [
+        "androidx.activity:activity",
+        "androidx.core:core",
+        "androidx.fragment:fragment",
+        "androidx.navigation:navigation-fragment",
+    ]
+}
