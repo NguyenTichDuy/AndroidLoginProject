@@ -88,12 +88,12 @@
         "source": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\src\\main\\res\\drawable\\border_login_button.xml"
     },
     {
-        "merged": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
-        "source": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\src\\main\\res\\drawable\\facebook.png"
-    },
-    {
         "merged": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\src\\main\\res\\drawable\\facebook.png"
     },
     {
         "merged": "C:\\Users\\Wolf\\Documents\\AndroidLoginProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpg.flat",
