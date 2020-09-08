@@ -3,14 +3,15 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
         android:background="#3fff"
-        android:padding="10dp"
         android:gravity="center"
-        >
+        android:orientation="vertical"
+        android:padding="10dp">
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -20,52 +21,51 @@
             android:textColor="#ffffff" />
 
         <EditText
-        android:layout_width="200dp"
-        android:layout_height="40dp"
-        android:hint="Username"
-        android:textColorHint="#FFFBF9"
-        android:padding="10dp"
-        android:background="@drawable/btn"
-        android:layout_marginTop="15dp"
-        android:inputType="text"
-        />
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/btn"
+            android:hint="Username"
+            android:inputType="text"
+            android:padding="10dp"
+            android:textColorHint="#FFFBF9" />
+
         <EditText
             android:layout_width="200dp"
             android:layout_height="40dp"
-            android:hint="Password"
-            android:textColorHint="#FFFBF9"
-            android:padding="10dp"
-            android:background="@drawable/btn"
             android:layout_marginTop="15dp"
+            android:background="@drawable/btn"
+            android:hint="Password"
             android:inputType="textPassword"
-            />
+            android:padding="10dp"
+            android:textColorHint="#FFFBF9" />
+
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Keep me signed in"
-            android:textColor="#FBFBF9"
             android:layout_marginTop="10dp"
             android:buttonTint="#FBFBF9"
-            />
+            android:text="Keep me signed in"
+            android:textColor="#FBFBF9" />
+
         <Button
             android:layout_width="250dp"
             android:layout_height="40dp"
-            android:text="Sign In"
-            android:textAllCaps="false"
             android:background="@drawable/btncolor"
-            />
+            android:text="Sign In"
+            android:textAllCaps="false" />
+
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
-            android:background="#3fff"
             android:layout_marginTop="10dp"
-            />
+            android:background="#3fff" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Forget Password ?"
             android:layout_marginTop="10dp"
-            android:textColor="#FFFFFF "
-            />
+            android:text="Forget Password ?"
+            android:textColor="#FFFFFF " />
     </LinearLayout>
 </LinearLayout>
