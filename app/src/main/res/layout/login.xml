@@ -10,6 +10,7 @@
         android:background="#3fff"
         android:gravity="center"
         android:orientation="vertical"
+        android:focusable="true"
         android:padding="10dp">
 
         <TextView
@@ -21,7 +22,7 @@
             android:textColor="#ffffff" />
 
         <EditText
-            android:layout_width="200dp"
+            android:layout_width="250dp"
             android:layout_height="40dp"
             android:layout_marginTop="15dp"
             android:background="@drawable/btn"
@@ -31,7 +32,7 @@
             android:textColorHint="#FFFBF9" />
 
         <EditText
-            android:layout_width="200dp"
+            android:layout_width="250dp"
             android:layout_height="40dp"
             android:layout_marginTop="15dp"
             android:background="@drawable/btn"

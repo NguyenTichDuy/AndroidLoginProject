@@ -12,9 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54e29acb-24e4-481a-8d81-7902202a4f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/border_edit_text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/border_login_button.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/myapp/first/app/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/myapp/first/app/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,10 +146,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1598467213949" />
-    <state x="580" y="274" key="AndroidCreateResourceFileDialog" timestamp="1599528323624">
+    <state x="580" y="274" key="AndroidCreateResourceFileDialog" timestamp="1599528716020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="580" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1599528323624" />
+    <state x="580" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1599528716020" />
     <state x="360" y="136" width="1200" height="784" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598421911843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
